@@ -1,5 +1,5 @@
 {
-    "name": "WaelWalid/laravel-aramex",
+    "name": "waelwalid/laravel-aramex",
     "description": "This package to integrate your application with Aramex services ( Shipping - Tracking - rate Calculation )",
     "type": "library",
     "version" :"0.1.0" ,
