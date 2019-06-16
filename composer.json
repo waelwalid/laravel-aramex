@@ -8,6 +8,13 @@
             "WaelWalid\\LaravelAramex\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "WaelWalid\\LaravelAramex\\LaravelAramexServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "Wael Walid",
