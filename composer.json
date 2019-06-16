@@ -3,6 +3,11 @@
     "description": "This package to integrate your application with Aramex services ( Shipping - Tracking - rate Calculation )",
     "type": "library",
     "version" :"0.1.0" ,
+    "autoload": {
+        "psr-4": {
+            "WaelWalid\\LaravelAramex\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Wael Walid",
