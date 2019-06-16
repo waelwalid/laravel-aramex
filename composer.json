@@ -1,6 +1,6 @@
 {
     "name": "waelwalid/php-aramex",
-    "description": "This package to integrate your application with Aramex services ( shipping - tracking - rete calcutaion )",
+    "description": "This package to integrate your application with Aramex services ( Shipping - Tracking - rate Calculation )",
     "type": "library",
     "version" :"0.1.0" ,
     "authors": [
