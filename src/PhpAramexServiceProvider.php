@@ -1,10 +1,10 @@
 <?php
 
-namespace WaelWalid\PhpAramex;
+namespace WaelWalid\LaravelAramex;
 
 use Illuminate\Support\ServiceProvider;
 
-class PhpAramexServiceProvider extends ServiceProvider
+class LaravelAramexServiceProvider extends ServiceProvider
 {
     /**
      * Register services.

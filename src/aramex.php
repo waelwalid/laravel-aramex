@@ -1,6 +1,6 @@
 <?php
 
-namespace WaelWalid\PhpAramex;
+namespace WaelWalid\LaravelAramex;
 
 class Aramex
 {
