@@ -16,6 +16,10 @@ You can install the package via composer:
 
     php artisan vendor:publish --tag=aramex
 
+## .ENV File
+
+    AramexProduction = "test" OR "live"
+
 This command line will copy XML Files of Aramex Soap Service to public directory and config file named aramex.php into config directory.
 
 **-- public/vendor/aramex | config/aramex.php**
@@ -241,3 +245,4 @@ This command line will copy XML Files of Aramex Soap Service to public directory
 
 Please check Aramex soap service documentation via : 
 [https://www.aramex.com/docs/default-source/resourses/resourcesdata/shipping-services-api-manual.pdf](https://www.aramex.com/docs/default-source/resourses/resourcesdata/shipping-services-api-manual.pdf)
+
