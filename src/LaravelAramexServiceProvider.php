@@ -23,9 +23,14 @@ class LaravelAramexServiceProvider extends ServiceProvider
      */
     public function boot()
     {
+        /** Publich soap files */
         $this->publishes([
             __DIR__.'/live' => public_path('vendor/aramex/live'),
             __DIR__.'/test' => public_path('vendor/aramex/test'),
+        ] , 'aramex');
+        /** publish config file */
+        $this->publishes([
+            __DIR__.'/config/config.php' => config_path('aramex.php'),
         ] , 'aramex');
     }
 }
