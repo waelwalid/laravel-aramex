@@ -246,3 +246,7 @@ This command line will copy XML Files of Aramex Soap Service to public directory
 Please check Aramex soap service documentation via : 
 [https://www.aramex.com/docs/default-source/resourses/resourcesdata/shipping-services-api-manual.pdf](https://www.aramex.com/docs/default-source/resourses/resourcesdata/shipping-services-api-manual.pdf)
 
+## Donate
+If you like this package, don't hesitate to give it a [Start](https://github.com/waelwalid/laravel-aramex) or donate via [Paypal](paypal.me/WaelWalid) .
+
+
